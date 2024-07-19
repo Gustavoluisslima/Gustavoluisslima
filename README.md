@@ -4,6 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=Gustavoluisslima&style=for-the-badge">
 </div>
 
+<div align="center">
+  <h2>Estatísticas do GitHub</h2>
+  <a href="https://github.com/Gustavoluisslima/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoluisslima&show_icons=true&theme=gotham" />
+  </a>
+  <a href="https://github.com/Gustavoluisslima/convoychat">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavoluisslima&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+  </a>  
+</div>
+
 
 
 <!--
