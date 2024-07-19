@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gustavoluisslima
-&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Gustavoluisslima&style=for-the-badge">
 </div>
+
 
 
 <!--
